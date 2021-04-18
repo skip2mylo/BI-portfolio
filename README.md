@@ -4,8 +4,7 @@ This is a repo for showcasing the school projects and other self-study pratices 
 
 # Power BI
 ## Project 1: Freddys-BI-cycle
-* Extract data from a bicycle retail company's database to build an automated Power BI report to keep track of KPIs within areas of 
-* sales performances, HR, organazation structure, inventory, customer service, income statements. 
+* Extract data from a bicycle retail company's database to build an automated Power BI report to keep track of KPIs within areas of *sales performances, HR, organazation structure, inventory, customer service, income statements*. 
 
 ![](/images/pbi-sales analytics.jpg)
 ![](/images/pbi-sales performance.jpg)
@@ -16,8 +15,7 @@ This is a repo for showcasing the school projects and other self-study pratices 
 ![](/images/pbi-income statement.jpg)
 
 ## Project 2: Himalaya Supermarket
-* Extract data from a supermarket's database to build a dashboard and Power BI automated report to track KPIs wthin areas of 
-* sales, campaign performance, employee management and economic status.
+* Extract data from a supermarket's database to build a dashboard and Power BI automated report to track KPIs wthin areas of *sales, campaign performance, employee management and economic status*.
 
 ![](/images/Dashboard_Himalaya Case 1.png)
 ![](/images/Himalaya - sales.jpg)
