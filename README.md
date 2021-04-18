@@ -34,3 +34,5 @@ This is a repo for showcasing the school projects and other self-study pratices 
 ## [Project 2: Personnummer control](https://github.com/skip2mylo/SQL/blob/20b1f2b316039c78eb71107d6762cd3117b8478c/Yijun%20Cao_Inl%C3%A4mnninsuppgift%201%20Kontrollsiffra.sql)
 * To improve the ETL flow, generate a function to autentize Swedish personnummer
 
+## [Other practices](https://github.com/skip2mylo/SQL/tree/main/other-practices)
+
