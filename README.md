@@ -17,8 +17,16 @@ This is a repo for showcasing the school projects and other self-study pratices 
 ## Project 2: Himalaya Supermarket
 * Extract data from a supermarket's database to build a dashboard and Power BI automated report to track KPIs wthin areas of *sales, campaign performance, employee management and economic status*.
 
-![](/images/Dashboard_Himalaya Case 1.png)
+![Dashboard](/images/Dashboard_Himalaya Case 1.png)
 ![](/images/Himalaya - sales.jpg)
 ![](/images/Himalaya - HR.jpg)
 ![](/images/Himalaya - Campagin.jpg)
 ![](/images/Himalaya - Income Statement.jpg)
+
+# SQL
+## [Project 1: ETL and database modelling](https://github.com/skip2mylo/SQL-ETL/blob/20b1f2b316039c78eb71107d6762cd3117b8478c/Yijun%20Cao_Inl%C3%A4mningsuppgift%202%20ETL_updated.sql)
+* Extracting data from different original data sources
+* Design and create a new database using model star-schema
+* Analyse sales, product inventory and production, employee management
+* SQL scripts needs to be automated (update once a day)
+* Consider how to optimize the database performance (indexing) 
