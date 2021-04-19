@@ -1,4 +1,5 @@
-# Welcome to June's Portfolio of Data Analytics (*KEEP UPDATING*)
+# Welcome to June's Portfolio of Data Analytics 
+###(*KEEP UPDATING*)
 
 This is a repo for showcasing the school projects and other self-study pratices within Business Intelligence/data analytics for June.
 
