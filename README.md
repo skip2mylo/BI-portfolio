@@ -7,8 +7,8 @@ This is a repo for showcasing the school projects and other self-study pratices 
 ## Project 1: Freddys-BI-cycle
 * Help a bicycle company which has e-commerce and offline sales networks to set up automated reports using
 PowerBI.
-  Extract data from different sources(servers, flat files) and transform it to the form ready for further analysis
-  Identify the business requirements in Sales, Marketing promotions, HR, CRM, Inventory, Finance and design the key metrics and map out data visualization*.
+* Extract data from different sources(servers, flat files) and transform it to the form ready for further analysis
+* Identify the business requirements in Sales, Marketing promotions, HR, CRM, Inventory, Finance and design the key metrics and map out data visualization.
 
 ![](/images/pbi-sales analytics.jpg)
 ![](/images/pbi-sales performance.jpg)
