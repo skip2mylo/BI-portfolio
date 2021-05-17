@@ -47,7 +47,7 @@ PowerBI.
 * For user required customer account, create a funcontion to generate a csv file contains all the order histories automately
 
 
-## [Project 2: Book collection statistics of British Library with Python](https://github.com/skip2mylo/python/blob/517a5c7020b2432d2293004e217e9a03d78c441b/Data-cleansing/Books_Yijun%20Cao.py)
+## [Project 2: Book collection statistics of British Library with Python](https://github.com/skip2mylo/python/blob/a1a9173adc37d66accc0cbff320652924f2a79f0/Data-cleansing/Books_Yijun%20Cao.py)
 Using NumPy, Pandas libraries to cleanse the raw data (excel files) in the DataFrame (2% NaN value after the cleanse) to provide statistics related to authors and places of book publications. Visualize the findings with Matplotlib.
 
 ![](images/Report visuals.png)
