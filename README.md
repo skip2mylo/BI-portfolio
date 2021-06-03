@@ -14,8 +14,9 @@ PowerBI.
 * Extract data from different sources (server, flat files) and transform it to the form (modeling) ready for further analysis.
 * Visualize key measures for storytelling for different department in forms of reports and dashboards.
 
-![](/images/pbi-sales analytics.jpg)
-![](/images/pbi-sales performance.jpg)
+![](/images/FBC-sales analysis1.jpg)
+![](/images/FBC-sales analysis2.jpg)
+![](/images/FBC-Period sales.jpg)
 ![](/images/pbi-HR.jpg)
 ![](/images/pbi-organization chart.jpg)
 ![](/images/pbi-inventory.jpg)
