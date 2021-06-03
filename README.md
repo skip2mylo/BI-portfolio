@@ -55,3 +55,12 @@ PowerBI.
 Using NumPy, Pandas libraries to cleanse the raw data (excel files) in the DataFrame (2% NaN value after the cleanse) to provide statistics related to authors and places of book publications. Visualize the findings with Matplotlib.
 
 ![](images/Report visuals.png)
+
+# ETL
+## [Project 1: Analysis of delays of US domestic flights]
+Perform the ETL process in SSIS from raw data of commercial flights in the US to structured information for analysis in SSAS, mainly focused on on-time statistics, for a
+company that wants to establish itself in the commercial aviation market in the US.
+* Source Systems: Data containing all commercial domestic flights in the United States between 2003-2008 from the U.S. Department of Transportation
+* Staging Area: Contains the cleansed data (airline on-time statistics and delay causes) for relevant analysis.
+* Data Warehouse: Contains data divided into a Star-schema.
+* Data Marts: Contains OLAP Cubes or Tabular Models (SSAS) for fast querying from analytics tools.
