@@ -2,7 +2,7 @@
 ## (*KEEP UPDATING*)
 Three SQL databases went into a No SQL bar, but had to leave because they couldn't find any tables...
 
-This is a repo for showcasing the school projects and other self-study pratices within Business Intelligence/data analytics for June.
+This is a repo for showcasing the school projects and other self-study pratices within Business Intelligence/data analytics.
 
 
 
